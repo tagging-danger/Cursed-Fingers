@@ -1,5 +1,3 @@
-Sure! Here is a complete README file for your "Cursed-Fingers" repository that you can copy and paste directly into your GitHub repository:
-
 ```markdown
 Cursed Fingers
 
